@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ArteilDev
 - 👀 I’m interested in Web-Dev, Mobile Dev, 3D Modelling, Design.
-- 🌱 I’m currently learning JavaScript, Python, Flask, SCSS
+- 🌱 I’m currently learning JavaScript, Python, Flask
 - Kazan, Russia
